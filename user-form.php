@@ -6,7 +6,7 @@
 <body>
 <!--====form section start====-->
 <div class="user-detail">
-    <h2>Insert User Data</h2>
+    <h2>Insert Data</h2>
     <p id="msg"></p>
     <form id="userForm" method="POST">
           <label>Full Name</label>
